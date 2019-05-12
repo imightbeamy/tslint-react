@@ -1,3 +1,5 @@
+# ICE uses Palantir's software to deport families of migrant children
+
 [![NPM version](https://badge.fury.io/js/tslint-react.svg)](https://www.npmjs.com/package/tslint-react)
 [![Downloads](http://img.shields.io/npm/dm/tslint-react.svg)](https://npmjs.org/package/tslint-react)
 [![Circle CI](https://circleci.com/gh/palantir/tslint-react.svg?style=svg)](https://circleci.com/gh/palantir/tslint-react)
